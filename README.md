@@ -3,5 +3,6 @@ Created off of  Z3R0th's original code. Instead of it grabbing out from the inte
 
 Credit to Beefycode for the code for text to speech!
 
+Powershell script penetration tester / testing calling card
 
 ![alt text](https://github.com/chrisjd20/Hackercat/blob/master/hcat.gif?raw=true)
